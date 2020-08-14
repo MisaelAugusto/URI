@@ -10,7 +10,7 @@
 
 <h2 id="description">📑️ Descrição</h2>
 <p>
-  Repositório com as minhas soluções para os problemas de programação do site URI Online Judge. As soluções para cada problema estão dividas por linguagem, cada uma possui sua respectiva pasta. Dentro da pasta que representa uma linguagem de programação há pastas que separam as soluções nessa linguagem de acordo com a categoria do problema (Iniciante, Ad-Hoc, Strings, etc.).
+  Repositório com as minhas soluções para os problemas de programação do site URI Online Judge. As soluções para cada problema estão divididas por linguagem, cada uma possui sua respectiva pasta. Dentro da pasta que representa uma linguagem de programação há pastas que separam as soluções nessa linguagem de acordo com a categoria do problema (Iniciante, Ad-Hoc, Strings, etc.).
 </p>
 
 <h2 id="preview">📽️ Demonstração</h2>

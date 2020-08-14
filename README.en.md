@@ -10,7 +10,7 @@
 
 <h2 id="description">📑️ Description</h2>
 <p>
-  Repository with my solutions to the programming problems of the URI Online Judge website. The solutions to each problem are divided by language, each has its own folder. Inside the folder that represents a programming language there are folders that separate the solutions, in that language, according to the category of the problem (Beginner, Ad-Hoc, Strings, etc.).
+  Repository with my solutions to the programming problems of the URI Online Judge website. The solutions to each problem are divided by language, each has its own folder. Inside the folder that represents a programming language there are folders that separate the solutions in that language according to the category of the problem (Beginner, Ad-Hoc, Strings, etc.).
 </p>
 
 <h2 id="preview">📽️ Preview</h2>
