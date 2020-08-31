@@ -17,9 +17,9 @@
 <ul>
   <li>🗂️ URI</li>
   <ul>
-    <li>📁️ Python3</li>
+    <li>📁️ Python 3</li>
     <ul>
-      <li>📁️ Beginner</li>
+      <li>📁️ <a href="https://github.com/MisaelAugusto/uri/tree/master/python-3/beginner">Beginner</a></li>
     </ul>
   </ul>
 </ul>
