@@ -5,7 +5,8 @@
 <div align="center">
   <a href="#description">Descrição</a> |
   <a href="#preview">Demonstração</a> |
-  <a href="#technologies">Tecnologias</a>
+  <a href="#technologies">Tecnologias</a> |
+  <a href="#license">Licença</a>
 </div>
 
 <h2 id="description">📑️ Descrição</h2>
@@ -30,6 +31,11 @@
   <li>Python (versão 3.7)</li>
 </ul>
 <h5>Nota: No futuro novas linguagens serão adicionadas!</h5>
+
+<h2 id="license">📜️ Licença</h2>
+<div>
+  Esse projeto está sob a licença MIT. Veja o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.
+</div>
 
 ---
 <p>Desenvolvido com 💙️ por Misael Augusto</p>
